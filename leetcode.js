@@ -94,3 +94,4 @@ function findOdd(A) {
 // In this code, we initialize result to 0 and then loop through the array. In each iteration, we XOR the current number in the array with 
 // the result. Since XORing an even number of occurrences of the same number will result in 0, and XORing with 0 leaves the number unchanged, 
 // the final result will be the integer that appears an odd number of times.
+
